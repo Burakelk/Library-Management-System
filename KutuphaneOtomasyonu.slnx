@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KutuphaneOtomasyonu.Tests/KutuphaneOtomasyonu.Tests.csproj" />
+  <Project Path="KutuphaneOtomasyonu.Web/KutuphaneOtomasyonu.Web.csproj" />
+</Solution>
